@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel ile deneme <br>
+                    Hakan local de ekledim
                 </div>
 
                 <div class="links">
